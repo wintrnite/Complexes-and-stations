@@ -9,7 +9,7 @@
 ### Как использовать:
 
 Необходимо иметь установленный PostgreSQL, PostGIS.
-Так же нужно предварительно загрузить в базу данных
+Также нужно предварительно загрузить в базу данных
 данные (в таблицу
 complexes [отсюда](https://docs.google.com/spreadsheets/d/1bPYa85nthsvZJO4MhjktTk0QrGYs5Rns/edit?rtpof=true&sd=true)
 и в таблицу
