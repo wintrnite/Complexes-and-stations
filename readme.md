@@ -13,7 +13,7 @@
 данные (в таблицу
 complexes [отсюда](https://docs.google.com/spreadsheets/d/1bPYa85nthsvZJO4MhjktTk0QrGYs5Rns/edit?rtpof=true&sd=true)
 и в таблицу
-stations [отсюда](https://data.mos.ru/opendata/7704786030-ostanovki-nazemnogo-gorodskogo-passajirskogo-transporta/data/table?versionNumber=7&releaseNumber=335))
+stations [отсюда](https://data.mos.ru/opendata/7704786030-ostanovki-nazemnogo-gorodskogo-passajirskogo-transporta/data/table?versionNumber=7&releaseNumber=335)) или воспользоваться готовым дампом из файла postgres_db.dump
 
 После загрузки данных необходимо создать виртуальное окружение
 
